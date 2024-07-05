@@ -22,6 +22,7 @@ https://www.youtube.com/watch?v=vjuF8KF7MFA&ab_channel=ArturDomitti
 ## Software
 
 ## Foto do projeto
+<img src="arduino.png">
 
 ## Membros do grupo
   * Artur Domitti Camargo - 15441661
