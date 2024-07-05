@@ -11,7 +11,7 @@ O trabalho teve como objetivo criar um sensor de ré de carro utilizando Arduino
 | Sensor ultrassônico | 1 | 9,50 |
 | Display LCD | 1 | emprestado |
 | Pastilha piezoeletrônica | 1 | 8,00 |
-| LED vermelho | 2 | emprestado |
+| LED verde | 2 | emprestado |
 | Resistor 330Ω | 3 | 3,43 |
 
 ## Vídeo do funcionamento
