@@ -7,17 +7,20 @@ O trabalho teve como objetivo criar um sensor de ré de carro utilizando Arduino
 | Componente | Qtd | Total R$ |
 | ---------- | --- | -------- |
 | Protoboard | 1 | emprestado |
-| Arduino UNO | 1 | 2,50 |
-| Sensor ultrassônico | 4 | 0,80 |
-| Display LCD | 1 | 0,50 |
-| Pastilha piezoeletrônica | 1 | emprestado |
+| Arduino UNO | 1 | 44,99 |
+| Sensor ultrassônico | 1 | 9,50 |
+| Display LCD | 1 | emprestado |
+| Pastilha piezoeletrônica | 1 | 8,00 |
 | LED vermelho | 2 | emprestado |
-| Resistor 330Ω | 3 | 7,00 |
+| Resistor 330Ω | 3 | 3,43 |
 
 ## Vídeo do funcionamento
 https://www.youtube.com/watch?v=vjuF8KF7MFA&ab_channel=ArturDomitti
 
 ## TinkerCad
+<img src="9893D9B0-44F7-4AA2-8FE9-DB2EB5115A2E.jpeg">
+https://www.tinkercad.com/things/6XPkUNkfPQF-shiny-wolt-borwo/editel?sharecode=JWtsEgQUqherwgIMz7KNJmGeQdjleXHCWEfBBcNK-Lg
+
 
 ## Software
 <img src="codigoArduino.png">
