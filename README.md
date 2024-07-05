@@ -1,7 +1,7 @@
 # Sensor de distância usando Arduino
 ## Descrição
 Projeto da disciplina _Eletrônica para Computação_, desenvolvido pelos alunos da USP da São Carlos.
-O trabalho teve como objetivo criar um sensor de ré de carro utilizando Arduino.
+O trabalho teve como objetivo criar um sensor de estacionamento utilizando Arduino.
 
 ### Lista de componentes
 | Componente | Qtd | Total R$ |
