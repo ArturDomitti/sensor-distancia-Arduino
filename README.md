@@ -15,6 +15,7 @@ O trabalho teve como objetivo criar um sensor de ré de carro utilizando Arduino
 | Resistor 330Ω | 3 | 7,00 |
 
 ## Vídeo do funcionamento
+https://www.youtube.com/watch?v=vjuF8KF7MFA&ab_channel=ArturDomitti
 
 ## TinkerCad
 
